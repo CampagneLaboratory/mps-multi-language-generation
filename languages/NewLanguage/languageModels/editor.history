@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="i27t" modelUID="r:7d2df633-6db5-49ca-abce-3b4757bb3807(NewLanguage.constraints)" version="-1" />
+      <model index="ijks" modelUID="r:b0937de7-7bd9-4037-9fe0-0c72f924ca3e(NewLanguage.editor)" version="-1" />
+      <model index="6rg6" modelUID="r:de9461ee-764e-467c-802a-dd9f251fc17b(NewLanguage.structure)" version="-1" />
+      <model index="yjv6" modelUID="r:e29ad9e6-f22b-45b3-bbf4-67ec545db4ab(NewLanguage.behavior)" version="-1" />
+      <model index="zbsx" modelUID="r:9e28378b-d8e9-4a00-8614-a6a902f500a3(NewLanguage.typesystem)" version="-1" />
+      <model index="ryon" modelUID="r:0f17f6f4-8c2b-4549-befb-3e8284754468(NewLanguage.generator.template.main@generator)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:de9461ee-764e-467c-802a-dd9f251fc17b(NewLanguage.structure)" newModel="r:de9461ee-764e-467c-802a-dd9f251fc17b(A.structure)" />
+    <RenameModel oldModel="r:b0937de7-7bd9-4037-9fe0-0c72f924ca3e(NewLanguage.editor)" newModel="r:b0937de7-7bd9-4037-9fe0-0c72f924ca3e(A.editor)" />
+    <RenameModel oldModel="r:7d2df633-6db5-49ca-abce-3b4757bb3807(NewLanguage.constraints)" newModel="r:7d2df633-6db5-49ca-abce-3b4757bb3807(A.constraints)" />
+    <RenameModel oldModel="r:e29ad9e6-f22b-45b3-bbf4-67ec545db4ab(NewLanguage.behavior)" newModel="r:e29ad9e6-f22b-45b3-bbf4-67ec545db4ab(A.behavior)" />
+    <RenameModel oldModel="r:9e28378b-d8e9-4a00-8614-a6a902f500a3(NewLanguage.typesystem)" newModel="r:9e28378b-d8e9-4a00-8614-a6a902f500a3(A.typesystem)" />
+    <RenameModel oldModel="r:0f17f6f4-8c2b-4549-befb-3e8284754468(NewLanguage.generator.template.main@generator)" newModel="r:0f17f6f4-8c2b-4549-befb-3e8284754468(A.generator.template.main@generator)" />
+  </StructureModification>
+</history>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="Solution_in_A.model.null" file="rootA.d" />
+  <dependency className="Solution_in_A.model.null" file="rootA.e" />
+</dependenciesRoot>
+

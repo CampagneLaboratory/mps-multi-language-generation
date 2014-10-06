@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/B/B.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/D/D.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/E/E.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/NewLanguage/NewLanguage.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Solution_in_A/Solution_in_A.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
+
